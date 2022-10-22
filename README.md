@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yahya9912
-- 👀 I’m interested in fnf PsychEngine
-- 🌱 I’m currently learning source code
-- 💞️ I’m looking for someone like mr fnf
-- 🧑🏽 He/Him
-- 🎵 Tiktok:9yahya9
-- 💻 YouTube:spooky-pump
+- 👀 I’m interested in fnf YoshiEngine (bye Psych xd)
+- 🌱 I’m currently learning Yoshi Engine
+- 🧑🏽 He / Him
+- 🎵 Tiktok: 9yahya9
+- 💻 YouTube: Yahya :)
