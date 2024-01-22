@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @yahya9912
-- 👀 I’m interested in fnf YoshiEngine (bye Psych xd)
-- 🌱 I’m currently learning Yoshi Engine
-- 🧑🏽 He / Him
-- 🎵 Tiktok: 9yahya9
-- 💻 YouTube: Yahya :)
+bruh!
